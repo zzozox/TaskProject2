@@ -18,6 +18,7 @@ public class CourseDaoTest {
     @Test
     public void test(){
         System.out.println("zzx写了点东西");
+        System.out.println("别管zzx了，她写不出什么好东西，就这样吧");
     }
 
 }
