@@ -19,6 +19,7 @@ public class CourseDaoTest {
     public void test(){
         System.out.println("zzx写了点东西");
         System.out.println("别管zzx了，她写不出什么好东西，就这样吧");
+        System.out.println("刚才好像push失败了，再来一次");
     }
 
 }
